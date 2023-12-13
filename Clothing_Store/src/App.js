@@ -18,9 +18,6 @@ import HeaderComponents from "./components/HeaderComponents";
 import LoadingFullComponents from "./components/LoadingFullComponents";
 
 function App() {
-  // useEffect(() => {
-  //   fetchAPI()
-  // }, [])
 
   // const fetchAPI = async () => {
   //   const res = await axios.get(`${process.env.REACT_APP_API_URL}/product/get-all`)
